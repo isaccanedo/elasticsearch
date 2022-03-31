@@ -9,7 +9,7 @@ Este repositório contém Dockerfile de **Dockerfile** of [Elasticsearch](http:/
 * [dockerfile/java:oracle-java8](http://dockerfile.github.io/#/java)
 
 
-### Installation
+### Instalação
 
 1. Install [Docker](https://www.docker.com/).
 
