@@ -18,7 +18,7 @@ Este repositório contém Dockerfile de **Dockerfile** of [Elasticsearch](http:/
    (alternatively, you can build an image from Dockerfile: `docker build -t="dockerfile/elasticsearch" github.com/dockerfile/elasticsearch`)
 
 
-### Usage
+### Uso
 
     docker run -d -p 9200:9200 -p 9300:9300 dockerfile/elasticsearch
 
